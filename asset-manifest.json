@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drillyportfolio/static/css/main.faf3076c.css",
-    "main.js": "/drillyportfolio/static/js/main.7757a0f6.js",
+    "main.css": "/drillyportfolio/static/css/main.8ef8c5db.css",
+    "main.js": "/drillyportfolio/static/js/main.e717124f.js",
     "static/js/787.1eb4c1af.chunk.js": "/drillyportfolio/static/js/787.1eb4c1af.chunk.js",
     "index.html": "/drillyportfolio/index.html",
-    "main.faf3076c.css.map": "/drillyportfolio/static/css/main.faf3076c.css.map",
-    "main.7757a0f6.js.map": "/drillyportfolio/static/js/main.7757a0f6.js.map",
+    "main.8ef8c5db.css.map": "/drillyportfolio/static/css/main.8ef8c5db.css.map",
+    "main.e717124f.js.map": "/drillyportfolio/static/js/main.e717124f.js.map",
     "787.1eb4c1af.chunk.js.map": "/drillyportfolio/static/js/787.1eb4c1af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf3076c.css",
-    "static/js/main.7757a0f6.js"
+    "static/css/main.8ef8c5db.css",
+    "static/js/main.e717124f.js"
   ]
 }
