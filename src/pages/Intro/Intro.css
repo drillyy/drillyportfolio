@@ -1,0 +1,21 @@
+.intro-container {
+  max-width: 18em;
+  margin-top: 5%;
+  color: white;
+}
+
+.intro-down-arrow {
+  color: #23547e;
+  margin-left: 35%;
+}
+
+.intro-down-arrow:hover {
+  cursor: pointer;
+  color: #d96567;
+}
+
+@media only screen and (min-width: 800px) {
+  .intro-container {
+    max-width: 25em;
+  }
+}

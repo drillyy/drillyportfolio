@@ -1,9 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Intro from './pages/Intro/Intro';
+import About from './pages/About/About';
 
 function App() {
   return (
-   <div>This is Drilly's Developer Portfolio</div>
+   <div>
+     <Intro />
+     <About />
+   </div>
   );
 }
 
