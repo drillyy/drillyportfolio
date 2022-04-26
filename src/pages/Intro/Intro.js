@@ -29,8 +29,8 @@ const Intro = () => {
         <h1>Hi, Drilly here</h1>
         <br></br>
         <h3>
-          Wannabe full-stack software developer with huge passion for
-          blockchain, data science and sport technology
+          Full-stack software developer with huge passion for
+          blockchain, data science and sports. <i>How can I help you?</i>
         </h3>
         <br></br>
         <Jump>
