@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/drillyportfolio/static/css/main.8ef8c5db.css",
-    "main.js": "/drillyportfolio/static/js/main.e717124f.js",
+    "main.css": "/drillyportfolio/static/css/main.f3f634f7.css",
+    "main.js": "/drillyportfolio/static/js/main.53ec7083.js",
     "static/js/787.1eb4c1af.chunk.js": "/drillyportfolio/static/js/787.1eb4c1af.chunk.js",
+    "static/media/bill.png": "/drillyportfolio/static/media/bill.0214a5fa32995e35e66c.png",
+    "static/media/react.png": "/drillyportfolio/static/media/react.08ad50d5f21d3c453acf.png",
+    "static/media/jupyter.png": "/drillyportfolio/static/media/jupyter.7b6a4a3e82ed07d2efc1.png",
+    "static/media/python.png": "/drillyportfolio/static/media/python.02ba636ff3c0fd5403f9.png",
+    "static/media/django.png": "/drillyportfolio/static/media/django.ad8e603f79a342b16622.png",
     "index.html": "/drillyportfolio/index.html",
-    "main.8ef8c5db.css.map": "/drillyportfolio/static/css/main.8ef8c5db.css.map",
-    "main.e717124f.js.map": "/drillyportfolio/static/js/main.e717124f.js.map",
+    "static/media/ellipse.svg": "/drillyportfolio/static/media/ellipse.d2ce98528dc77ff54185c3d53421321b.svg",
+    "main.f3f634f7.css.map": "/drillyportfolio/static/css/main.f3f634f7.css.map",
+    "main.53ec7083.js.map": "/drillyportfolio/static/js/main.53ec7083.js.map",
     "787.1eb4c1af.chunk.js.map": "/drillyportfolio/static/js/787.1eb4c1af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ef8c5db.css",
-    "static/js/main.e717124f.js"
+    "static/css/main.f3f634f7.css",
+    "static/js/main.53ec7083.js"
   ]
 }
